@@ -14,7 +14,7 @@ A secure login/registration system with **role-based access** (User/Admin) built
 ---
 
 ## 🎥 Live Demo  
-[![LinkedIn Demo](https://www.linkedin.com/posts/gamage-udara-dilshan_fullstackdevelopment-webdevelopment-php-activity-7345478328285306881-899V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdUtYIBjz7k0IOVrbQVYknLJ9aUcVJE_gA)  
+https://www.linkedin.com/posts/gamage-udara-dilshan_fullstackdevelopment-webdevelopment-php-activity-7345478328285306881-899V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdUtYIBjz7k0IOVrbQVYknLJ9aUcVJE_gA 
 *Click above to see the screen recording demo on LinkedIn*  
 
 ---
